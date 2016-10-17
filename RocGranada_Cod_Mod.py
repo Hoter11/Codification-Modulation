@@ -16,7 +16,7 @@ class model:
     def __init__(self):
         self.model
         self.sequence
-        #commmeeeeeent
+        #Normal comment
 
 def main(sequence):
     return 0
